@@ -1,6 +1,8 @@
 version: "{build}"
 
-configuration: Release
+configuration:
+  - Debug
+  - Release
 
 build_script:
   # build test
